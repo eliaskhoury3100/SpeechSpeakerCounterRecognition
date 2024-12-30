@@ -1,0 +1,1 @@
+Hi guys, I have very exciting news. The model is set up and it's correctly transcribing voice messages into text.
